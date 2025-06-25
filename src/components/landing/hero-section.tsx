@@ -1,6 +1,5 @@
 import { SECTION_ID } from "@/lib/section-id";
-import PrimaryBtn from "../common/primary-btn";
-import SecondaryBtn from "../common/secondary-btn";
+import { PrimaryBtn, SecondaryBtn } from "../common";
 import { ArrowDown } from "lucide-react";
 
 const HeroSection = () => {
