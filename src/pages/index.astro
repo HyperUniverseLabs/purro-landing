@@ -3,6 +3,7 @@ import Layout from "src/layouts/Layout.astro"
 import { BackgroundController } from "@/components/background-controller";
 import {
   FeaturesSection,
+  FrameworkSection,
   HeroSection,
   WeDoSection,
 } from "@/components/landing";
@@ -16,5 +17,6 @@ import {
 		<HeroSection client:load />
 		<WeDoSection client:load />
 		<FeaturesSection client:load />
+		<FrameworkSection client:load />
 	</BackgroundController>
 </Layout>
