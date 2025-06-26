@@ -43,13 +43,13 @@ const MetricSection = () => {
           desc: "Positioned to become a leading AI trading platform on Hyperliquid with cross-chain expansion planned.",
         }}
         style={{
-          backgroundColor: "!bg-white/10",
+          backgroundColor: "bg-white/10!",
           textColor: "text-white",
         }}
         icon={{
           src: <CirclePercent />,
-          iconBg: "!bg-white",
-          iconColor: "!text-black",
+          iconBg: "bg-white!",
+          iconColor: "text-black!",
         }}
         imgSrc="/images/hyperbabyai8.png"
       />

@@ -15,13 +15,13 @@ const cardData = [
       desc: "Make informed decisions with our AI-powered market analysis, delivering real-time insights and trend identification.",
     },
     style: {
-      backgroundColor: "!bg-white",
+      backgroundColor: "bg-white!",
       textColor: "text-black",
     },
     icon: {
       src: <ChartCandlestick />,
-      iconBg: "!bg-amber-700",
-      iconColor: "!text-white",
+      iconBg: "bg-amber-700!",
+      iconColor: "text-white!",
     },
   },
   {
@@ -30,13 +30,13 @@ const cardData = [
       desc: "Protect your portfolio with intelligent risk assessment tools and automated position sizing recommendations.",
     },
     style: {
-      backgroundColor: "!bg-white",
+      backgroundColor: "bg-white!",
       textColor: "text-black",
     },
     icon: {
       src: <ShieldPlus />,
-      iconBg: "!bg-amber-700",
-      iconColor: "!text-white",
+      iconBg: "bg-amber-700!",
+      iconColor: "text-white!",
     },
   },
   {
@@ -45,13 +45,13 @@ const cardData = [
       desc: "Execute with confidence using our AI-generated entry/exit signals and price prediction models.",
     },
     style: {
-      backgroundColor: "!bg-white",
+      backgroundColor: "bg-white!",
       textColor: "text-black",
     },
     icon: {
       src: <Radio />,
-      iconBg: "!bg-amber-700",
-      iconColor: "!text-white",
+      iconBg: "bg-amber-700!",
+      iconColor: "text-white!",
     },
   },
   {
@@ -60,13 +60,13 @@ const cardData = [
       desc: "Track and optimize your performance with comprehensive portfolio analysis and advanced reporting tools.",
     },
     style: {
-      backgroundColor: "!bg-white",
+      backgroundColor: "bg-white!",
       textColor: "text-black",
     },
     icon: {
       src: <FileChartPie />,
-      iconBg: "!bg-amber-700",
-      iconColor: "!text-white",
+      iconBg: "bg-amber-700!",
+      iconColor: "text-white!",
     },
   },
 ];
@@ -100,13 +100,13 @@ const FeaturesSection = () => {
           desc: "From strategy development to backtesting and live trading, we provide the tools you need to succeed in any market condition. Each service integrates seamlessly with our platform, powered by advanced AI models for maximum effectiveness and reliability.",
         }}
         style={{
-          backgroundColor: "!bg-black",
+          backgroundColor: "bg-black!",
           textColor: "text-white",
         }}
         icon={{
           src: <ChartNoAxesCombined />,
-          iconBg: "!bg-white",
-          iconColor: "!text-black",
+          iconBg: "bg-white!",
+          iconColor: "text-black!",
         }}
         imgSrc="/images/hyperbabyai3.png"
       />
