@@ -1,11 +1,26 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import Layout from "src/layouts/Layout.astro"
+import { BackgroundController } from "@/components/background-controller";
+import {
+  FAQSection,
+  FeaturesSection,
+  FrameworkSection,
+  HeroSection,
+  MetricSection,
+  WeDoSection,
+} from "@/components/landing";
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
 <Layout>
-	<Welcome />
+	<BackgroundController client:load>
+		<HeroSection client:load />
+		<WeDoSection client:load />
+		<FeaturesSection client:load />
+		<FrameworkSection client:load />
+		<MetricSection client:load />
+		<FAQSection client:load />
+	</BackgroundController>
 </Layout>
