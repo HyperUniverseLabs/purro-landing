@@ -22,7 +22,7 @@ const FrameworkSection = () => {
             desc: "Our advanced AI agents analyze vast market data in milliseconds, identifying opportunities through pattern recognition and predictive modeling. We transform complex market dynamics into clear, actionable trading signals.",
           }}
           style={{
-            backgroundColor: "!bg-green-600",
+            backgroundColor: "bg-green-600!",
             textColor: "text-white",
           }}
           imgSrc="/images/hyperbabyai4.png"
@@ -34,8 +34,8 @@ const FrameworkSection = () => {
             desc: "Combining the power of multiple AI models, we deliver precise trading insights with minimal latency. Our system monitors markets 24/7, offering traders strategic advantages through timely, data-driven alerts.",
           }}
           style={{
-            backgroundColor: "!bg-green-100",
-            textColor: "!text-black",
+            backgroundColor: "bg-green-100!",
+            textColor: "text-black!",
           }}
           imgSrc="/images/hyperbabyai5.png"
           imagePosition="bottom"
@@ -48,12 +48,12 @@ const FrameworkSection = () => {
         }}
         icon={{
           src: <Brain />,
-          iconBg: "!bg-green-700",
-          iconColor: "!text-white",
+          iconBg: "bg-green-700!",
+          iconColor: "text-white!",
         }}
         imgSrc="/images/hyperbabyai2.png"
         style={{
-          backgroundColor: "!bg-white",
+          backgroundColor: "bg-white!",
           textColor: "text-black",
         }}
       />

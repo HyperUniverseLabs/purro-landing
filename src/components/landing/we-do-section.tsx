@@ -46,7 +46,7 @@ const WeDoSection = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
         <VerticalCard
           style={{
-            backgroundColor: "!bg-violet-500",
+            backgroundColor: "bg-violet-500!",
             textColor: "text-white",
           }}
           text={{
@@ -57,8 +57,8 @@ const WeDoSection = () => {
         />
         <VerticalCard
           style={{
-            backgroundColor: "!bg-violet-100",
-            textColor: "!text-black",
+            backgroundColor: "bg-violet-100!",
+            textColor: "text-black!",
           }}
           text={{
             title: "Pioneering the Future of Trading",

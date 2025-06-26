@@ -12,7 +12,7 @@ const Footer = () => {
     <div className=" bg-black">
       <div className="container-small flex flex-col space-y-6 p-6">
         <div className="flex justify-between items-center pb-4 border-b border-white/10">
-          <a href="/" className="flex-shrink-0 text-white">
+          <a href="/" className="shrink-0 text-white">
             HyperBabyAI
           </a>
 

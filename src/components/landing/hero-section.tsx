@@ -10,7 +10,7 @@ const HeroSection = () => {
     >
       <div className="text-center container mx-auto mb-40 space-y-8 max-w-[1064px]">
         <a href={`#${SECTION_ID[5]}`}>
-          <SecondaryBtn className="!bg-yellow-200/20 text-yellow-400 font-semibold inline-flex gap-2 items-center px-[22px] py-[12px] animate-bounce">
+          <SecondaryBtn className="bg-yellow-200/20! text-yellow-400 font-semibold inline-flex gap-2 items-center px-[22px] py-[12px] animate-bounce">
             <img src="/purrbot.png" width={24} height={24} alt="purrbot icon" />
             <p className="leading-none">$HBABY Pre-sale</p>
             <ArrowDown className="w-4 h-4" />
@@ -33,7 +33,7 @@ const HeroSection = () => {
             <PrimaryBtn>Launch App</PrimaryBtn>
           </a>
           <a href="https://www.hyperuniverse.fun/" target="_blank">
-            <PrimaryBtn className="!bg-white/5">Our Services</PrimaryBtn>
+            <PrimaryBtn className="bg-white/5!">Our Services</PrimaryBtn>
           </a>
         </div>
         <p className="absolute bottom-0 left-0 right-0 pb-10 text-xs max-w-[400px] sm:max-w-[752px] mx-auto">
