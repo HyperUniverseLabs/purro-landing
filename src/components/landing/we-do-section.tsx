@@ -15,16 +15,16 @@ const WeDoSection = () => {
       className="min-h-screen container-small space-y-3 pb-[88px]"
     >
       <HeadCard
-        primaryText="Innovation & AI Excellence"
-        secondaryText="at Our Core"
+        primaryText="Trading should make you money"
+        secondaryText="otherwise, what’s the fun?"
         primaryTextColor="text-violet-700"
         bgColor="bg-violet-200"
         secondaryTextColor="text-black"
       >
         <DescText>
-          We combine cutting-edge AI technology with deep crypto trading
-          expertise, pioneering intelligent solutions that redefine trading
-          success in the digital asset space.
+          Most wallets just hold your funds. Purro puts them to work. Every time
+          you trade with Purro, 50% of the fees automatically go into staking –
+          and the yield comes back to your wallet.
         </DescText>
       </HeadCard>
       <BannerCard
@@ -33,8 +33,8 @@ const WeDoSection = () => {
           textColor: "text-white",
         }}
         text={{
-          title: "Our Mission to Transform Your Trading Future",
-          desc: "Our mission is to democratize advanced trading analysis through AI. We're committed to empowering traders with intelligent insights, predictive analytics, and real-time market intelligence.",
+          title: "Grind less, earn more.",
+          desc: "That’s the Purro way.",
         }}
         icon={{
           src: <Rocket />,

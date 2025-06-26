@@ -56,6 +56,7 @@
   color utility to any element that depends on these defaults.
 */
 @layer base {
+
   *,
   ::after,
   ::before,
@@ -102,6 +103,8 @@
     --chart-4: 43 74% 66%;
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
+    --font-figtree: 'Figtree', sans-serif;
+    --font-funnel-display: 'Funnel Display', sans-serif;
   }
 
   .dark {

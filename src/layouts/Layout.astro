@@ -1,49 +1,51 @@
 ---
-import "../styles/globals.css"
+import "../styles/globals.css";
 import Footer from "@/components/layout/footer";
-
-const figtreeVar = "--font-figtree";
-const funnelDisplay = "--font-funnel-display";
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>HyperBabyAI</title>
-		<meta name="description" content="AI Trading Intelligence to Master the Markets" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Purro: The Wallet for a Hyperliquid Future</title>
+    <meta name="description" content="The Wallet for a Hyperliquid Future" />
 
-		 <!-- Open Graph -->
-		<meta property="og:title" content="HyperBabyAI" />
-		<meta property="og:description" content="AI Trading Intelligence to Master the Markets" />
-		<meta property="og:url" content="https://hyperbaby.fun" />
-		<meta property="og:site_name" content="HyperBabyAI" />
-		<meta property="og:image" content="/hyper-baby-og.png" />
-		<meta property="og:locale" content="en_US" />
-		<meta property="og:type" content="website" />
+    <!-- Open Graph -->
+    <meta property="og:title" content="Purro" />
+    <meta
+      property="og:description"
+      content="The Wallet for a Hyperliquid Future."
+    />
+    <meta property="og:url" content="https://purro.xyz" />
+    <meta property="og:site_name" content="Purro" />
+    <meta property="og:image" content="/hyper-baby-og.png" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
 
-		<!-- Twitter -->
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="https://hyperbaby.fun" />
-		<meta name="twitter:description" content="AI Trading Intelligence to Master the Markets" />
-		<meta name="twitter:image" content="/hyper-baby-og.png" />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="https://purro.xyz" />
+    <meta
+      name="twitter:description"
+      content="AI Trading Intelligence to Master the Markets"
+    />
+    <meta name="twitter:image" content="/hyper-baby-og.png" />
 
-		<!-- Icons -->
-		<link rel="icon" href="/hyberbaby-logo-head.png" type="image/png" />
+    <!-- Icons -->
+    <link rel="icon" href="/hyberbaby-logo-head.png" type="image/png" />
 
-		 <!-- Fonts -->
-		 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-		 <link href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;700&display=swap" rel="stylesheet">
-	</head>
-	<body class="font-body antialiased">
-		<slot />
-		<Footer />
-	</body>
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="font-body antialiased">
+    <slot />
+    <Footer />
+  </body>
 </html>
-
-<style>
-	:root {
-	   --font-figtree: 'Figtree', sans-serif;
-	   --font-funnel-display: 'Funnel Display', sans-serif;
-	}
-</style>
