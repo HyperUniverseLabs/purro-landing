@@ -1,0 +1,59 @@
+
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2023_25921" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="907">
+<rect width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="53" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="107" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="160" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="213" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="267" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="320" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="373" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="426" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="480" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="533" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect x="586" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="853.602" width="0.658135" height="1440" transform="rotate(-90 0 853.602)" fill="white" fill-opacity="0.12"/>
+<rect x="640" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="800.292" width="0.658135" height="1440" transform="rotate(-90 0 800.292)" fill="white" fill-opacity="0.12"/>
+<rect x="693" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="746.984" width="0.658135" height="1440" transform="rotate(-90 0 746.984)" fill="white" fill-opacity="0.12"/>
+<rect x="746" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="693.675" width="0.658135" height="1440" transform="rotate(-90 0 693.675)" fill="white" fill-opacity="0.12"/>
+<rect x="800" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="640.366" width="0.658135" height="1440" transform="rotate(-90 0 640.366)" fill="white" fill-opacity="0.12"/>
+<rect x="853" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="587.057" width="0.658135" height="1440" transform="rotate(-90 0 587.057)" fill="white" fill-opacity="0.12"/>
+<rect x="906" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="533.748" width="0.658135" height="1440" transform="rotate(-90 0 533.748)" fill="white" fill-opacity="0.12"/>
+<rect y="480.439" width="0.658135" height="1440" transform="rotate(-90 0 480.439)" fill="white" fill-opacity="0.12"/>
+<rect x="1013" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="427.13" width="0.658135" height="1440" transform="rotate(-90 0 427.13)" fill="white" fill-opacity="0.12"/>
+<rect x="1066" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="373.821" width="0.658135" height="1440" transform="rotate(-90 0 373.821)" fill="white" fill-opacity="0.12"/>
+<rect x="1119" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="320.512" width="0.658135" height="1440" transform="rotate(-90 0 320.512)" fill="white" fill-opacity="0.12"/>
+<rect x="1173" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="267.203" width="0.658135" height="1440" transform="rotate(-90 0 267.203)" fill="white" fill-opacity="0.12"/>
+<rect x="1226" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="213.894" width="0.658135" height="1440" transform="rotate(-90 0 213.894)" fill="white" fill-opacity="0.12"/>
+<rect x="1279" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="160.585" width="0.658135" height="1440" transform="rotate(-90 0 160.585)" fill="white" fill-opacity="0.12"/>
+<rect x="1333" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="107.276" width="0.658135" height="1440" transform="rotate(-90 0 107.276)" fill="white" fill-opacity="0.12"/>
+<rect x="1386" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="53.9673" width="0.658135" height="1440" transform="rotate(-90 0 53.9673)" fill="white" fill-opacity="0.12"/>
+<rect x="1439" width="1" height="900" fill="white" fill-opacity="0.12"/>
+<rect y="0.658203" width="0.658135" height="1440" transform="rotate(-90 0 0.658203)" fill="white" fill-opacity="0.12"/>
+<rect x="960" width="1" height="900" fill="white" fill-opacity="0.12"/>
+</mask>
+<g mask="url(#mask0_2023_25921)">
+<rect width="1440" height="900" fill="url(#paint0_linear_2023_25921)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2023_25921" x1="720" y1="0" x2="720" y2="900" gradientUnits="userSpaceOnUse">
+<stop offset="0.405" stop-color="#C4C4C4"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
